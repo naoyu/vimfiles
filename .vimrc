@@ -28,6 +28,7 @@ NeoBundle 'rking/ag.vim'
 NeoBundle 'mattn/emmet-vim'
 NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'thinca/vim-quickrun'
+NeoBundle 'bronson/vim-trailing-whitespace'
 
 " Required:
 filetype plugin indent on
